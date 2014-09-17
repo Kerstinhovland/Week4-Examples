@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42632519-443B-4B1E-B09A-5D53FC8FB16A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>videoPlayback_t1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1EF96011-9F0F-4A19-BD20-9679F74A8240</key>
+		<string>https://github.com/Kerstinhovland/week3Examples.git</string>
+		<key>4193E3E6-451B-486D-B8AA-CB348C712ABE</key>
+		<string>https://github.com/jollyrogerjonesy/TECH-301-Prog-Vis-Media.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>of_v0.8.3_osx_release/apps/week4/videoPlayback_t1/videoPlayback_t1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1EF96011-9F0F-4A19-BD20-9679F74A8240</key>
+		<string>../../../..</string>
+		<key>4193E3E6-451B-486D-B8AA-CB348C712ABE</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kerstinhovland/week3Examples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4193E3E6-451B-486D-B8AA-CB348C712ABE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1EF96011-9F0F-4A19-BD20-9679F74A8240</string>
+			<key>IDESourceControlWCCName</key>
+			<string>apps</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4193E3E6-451B-486D-B8AA-CB348C712ABE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TECH-301-Prog-Vis-Media</string>
+		</dict>
+	</array>
+</dict>
+</plist>
